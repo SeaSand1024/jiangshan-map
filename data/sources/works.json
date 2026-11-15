@@ -21,5 +21,10 @@
   "tongdian": { "zh": "杜佑《通典》", "en": "Du You, Tongdian", "kind": "primary", "url": "https://zh.wikisource.org/wiki/通典" },
   "weishu": { "zh": "魏收《魏书》", "en": "Wei Shou, Book of Wei (Wei Shu)", "kind": "primary", "url": "https://zh.wikisource.org/wiki/魏書" },
   "zuozhuanzhengyi": { "zh": "孔颖达等《春秋左传正义》", "en": "Kong Yingda et al., Chunqiu Zuozhuan Zhengyi", "kind": "primary", "url": "https://zh.wikisource.org/wiki/春秋左傳正義" },
-  "zztj": { "zh": "司马光《资治通鉴》", "en": "Sima Guang, Zizhi Tongjian", "kind": "primary", "url": "https://zh.wikisource.org/wiki/資治通鑑" }
+  "zztj": { "zh": "司马光《资治通鉴》", "en": "Sima Guang, Zizhi Tongjian", "kind": "primary", "url": "https://zh.wikisource.org/wiki/資治通鑑" },
+  "mfa": { "zh": "中华人民共和国外交部", "en": "Ministry of Foreign Affairs of the PRC", "kind": "web", "url": "https://www.mfa.gov.cn/" },
+  "mot": { "zh": "交通运输部", "en": "Ministry of Transport of the PRC", "kind": "web", "url": "https://www.mot.gov.cn/" },
+  "ndrc": { "zh": "国家发展和改革委员会", "en": "National Development and Reform Commission of the PRC", "kind": "web", "url": "https://www.ndrc.gov.cn/" },
+  "nra": { "zh": "国家铁路局", "en": "National Railway Administration of the PRC", "kind": "web", "url": "https://www.nra.gov.cn/" },
+  "xinhua": { "zh": "新华社", "en": "Xinhua News Agency", "kind": "web", "url": "https://www.news.cn/" }
 }
