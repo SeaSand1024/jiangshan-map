@@ -562,7 +562,23 @@ window.ATLAS_EVENT_PINYIN = {
       ["zhongguoduiaomenhuifuxingshizhuquan","aomenhuiguizuguo","zhongguoduiaomenhuifuxingshizhuquanaomenhuiguizuguo","aomen"],
       ["zhongguozhengshijiarushijiemaoyizuzhi","qingzangtielukaigong","beijing","lasa"],
       ["di","jiexiajiaolinpikeyundonghuiyubeijingjuxing","beijing"],
-      ["zhongguo","nianshanghaishijiebolanhuishengdajuxing","shanghai"]
+      ["zhongguo","nianshanghaishijiebolanhuishengdajuxing","shanghai"],
+      ["jinghugaosutieluquanxiankaitongyunying","beijing","shanghai"],
+      ["shousouhangkongmujianliaoningjianjiaojierulie","dalian"],
+      ["zaiasitanatichugongjiansichouzhilujingjidai","asitana"],
+      ["nanshuibeitiaozhongxianyiqigongchengzhengshitongshui","danjiangkou","beijing"],
+      ["jiniankangzhanshengliqishizhouniandahuizaijingjuxing","beijing"],
+      ["ershiguojituanlingdaorenfenghuizaihangzhoujuxing","hangzhou"],
+      ["juedingshelihebeixionganxinqu","xiongan"],
+      ["gangzhuaodaqiaozhengshikaitongyunying","zhuhai","xianggang","aomen"],
+      ["beijingdaxingguojijichangtouruyunying","beijing"],
+      ["wuhanguanbilihantongdaofangkongxinguanfeiyanyiqing","wuhan"],
+      ["chuancangtielulalinduanjianchengtongche","lasa","linzhi"],
+      ["beijingyuzhangjiakoujubandi","jiedongaohui","beijing","zhangjiakou"],
+      ["di","jieyazhouyundonghuizaihangzhoujuxing","hangzhou"],
+      ["changeliuhaoshixianyuebeicaiyangbingfanhui","siziwangqi"],
+      ["hainanziyoumaoyigangqidongquandaofengguan","haikou"],
+      ["quanguorendapizhun","shiwuwu","guihuagangyao","quanguorendapizhunshiwuwuguihuagangyao","beijing"]
     ]
   },
   landmarks: [

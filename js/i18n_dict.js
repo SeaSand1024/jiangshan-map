@@ -159,7 +159,7 @@ window.EN_LOCALE = {
       "name": "People's Republic of China",
       "short": "PRC",
       "capital": "Beijing",
-      "desc": "Founded in 1949. Rapid economic growth since Reform and Opening in 1978, with the return of Hong Kong (1997) and Macau (1999)."
+      "desc": "Founded in 1949. Rapid economic growth since Reform and Opening in 1978, with the return of Hong Kong (1997) and Macau (1999). After 2010 the high-speed rail network, Xiong'an New Area, and the Hainan Free Trade Port carried that opening forward."
     }
   },
   "milestones": {
@@ -942,6 +942,70 @@ window.EN_LOCALE = {
     "prc:2010": [
       "Expo 2010 Shanghai hosted under the theme \"Better City, Better Life\"",
       "Shanghai"
+    ],
+    "prc:2011": [
+      "The Beijing–Shanghai high-speed railway opens along its full length",
+      "Beijing · Shanghai"
+    ],
+    "prc:2012": [
+      "China commissions its first aircraft carrier, Liaoning, at Dalian",
+      "Dalian"
+    ],
+    "prc:2013": [
+      "China proposes the Silk Road Economic Belt in a speech at Astana",
+      "Astana"
+    ],
+    "prc:2014": [
+      "The central route of the South-to-North Water Diversion begins supplying water",
+      "Danjiangkou · Beijing"
+    ],
+    "prc:2015": [
+      "Beijing holds the ceremony marking the 70th anniversary of victory in the war",
+      "Beijing"
+    ],
+    "prc:2016": [
+      "Hangzhou hosts the eleventh G20 summit of the leaders of major economies",
+      "Hangzhou"
+    ],
+    "prc:2017": [
+      "The central authorities decide to establish the Xiong'an New Area in Hebei",
+      "Xiong'an"
+    ],
+    "prc:2018": [
+      "The Hong Kong–Zhuhai–Macau Bridge opens and links the three cities",
+      "Zhuhai · Hong Kong · Macau"
+    ],
+    "prc:2019": [
+      "Beijing Daxing International Airport opens to commercial traffic",
+      "Beijing"
+    ],
+    "prc:2020": [
+      "Wuhan closes outbound transport links to contain the coronavirus outbreak",
+      "Wuhan"
+    ],
+    "prc:2021": [
+      "The Lhasa–Nyingchi railway opens as Tibet's first electrified line",
+      "Lhasa · Nyingchi"
+    ],
+    "prc:2022": [
+      "Beijing and Zhangjiakou host the 24th Olympic Winter Games",
+      "Beijing · Zhangjiakou"
+    ],
+    "prc:2023": [
+      "Hangzhou hosts the 19th Asian Games on the Qiantang River",
+      "Hangzhou"
+    ],
+    "prc:2024": [
+      "Chang'e-6 returns the first samples taken from the far side of the Moon",
+      "Siziwang Banner"
+    ],
+    "prc:2025": [
+      "The Hainan Free Trade Port begins island-wide special customs operations",
+      "Haikou"
+    ],
+    "prc:2026": [
+      "The National People's Congress approves the 15th Five-Year Plan outline",
+      "Beijing"
     ],
     "qin:-212": [
       "First Emperor orders Meng Tian to build the 700 km Qin Direct Road from Jiuyuan to Yunyang",
@@ -2810,6 +2874,8 @@ window.EN_LOCALE = {
     "南京应天府": "Nanjing Yingtian Fu",
     "北京大名府": "Beijing Daming Fu",
     "杭州": "Hang Zhou",
+    "雄安": "Xiong'an",
+    "2017 年设立的国家级新区，辖雄县、容城、安新及周边": "National new area established in 2017, covering Xiongxian, Rongcheng, Anxin, and nearby districts",
     "江宁": "Jiangning",
     "泉州": "Quan Zhou",
     "雄州": "Xiong Zhou",
